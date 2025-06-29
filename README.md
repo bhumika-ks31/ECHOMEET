@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
-"# ECHOMEET" 
->>>>>>> e349ab018a2c37dc5e0557af8d074a59b428ffc6
+
+
 # 📹 EchoMeet – Secure Video Meetings with Chat, Screen Sharing & Realtime Collab
 
 Welcome to **EchoMeet**, a realtime video conferencing platform built with **React**, **WebRTC**, and **Socket.IO**, offering high-performance peer-to-peer meetings with chat, screen sharing, and an elegant dark UI. 🚀
